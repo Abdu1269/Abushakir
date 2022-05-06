@@ -1,18 +1,17 @@
 name: example
 description: An Example for EthiopianCalendar Package.
 version: 0.0.1
-author: Nabute Nigusse nabute925@gmail.com;
-homepage:
+homepage: https://github.com/Nabute/Abushakir
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.16.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  equatable: ^1.1.0
+  equatable: ^2.0.3
   abushakir:
-    path: ../
+    publish_to: none
 
 dev_dependencies:
   flutter_test:
