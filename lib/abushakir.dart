@@ -9,7 +9,7 @@
 /// This library can be imported as
 ///
 /// ```
-/// iimport 'package:abushakir2/abushakir.dart';
+/// import 'package:abushakir/abushakir.dart';
 /// ```
 ///
 /// ## Ethiopian Date and Time
