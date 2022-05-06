@@ -1,10 +1,10 @@
-name: abushakir
-version: 0.1.5
+name: bahere_hasab
+version: 0.0.1
 homepage: https://github.com/Abdu1269/Abushakir
-description: A Dart/ Flutter Package for Ethiopian calendar system (ባሕረ ሃሳብ). It can help you integrate Ethiopian DateTime, calendar and all the movable fastings with respective holidays.
+description: A Dart/ Flutter Package for Ethiopian calendar system 
 environment: 
   sdk: ">=2.16.0 <3.0.0"
-  
+
 dependencies: 
   equatable: ^2.0.3
 

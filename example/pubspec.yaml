@@ -1,11 +1,10 @@
 name: example
 description: An Example for EthiopianCalendar Package.
 version: 0.0.1
-homepage: https://github.com/Nabute/Abushakir
+homepage: https://github.com/Abdu1269/Abushakir
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
-
 dependencies:
   flutter:
     sdk: flutter

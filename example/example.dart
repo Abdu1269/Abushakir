@@ -2,11 +2,13 @@
 // Use of this source code is governed by MIT license, which can be found
 // in the LICENSE file.
 
+import 'package:abushakir/abushakir.dart';
+
 /// An Example of using the package to create and manipulate Ethiopian Date and
 /// Time with the unique Calendar system which includes the way ethiopians
 /// use to find movable feasts and holiday.
 
-import 'package:abushakir/abushakir.dart';
+// import 'package:bahere_hasab/abushakir.dart';
 
 void main() {
   /**

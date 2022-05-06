@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:abushakir/abushakir.dart';
+import 'package:bahere_hasab/abushakir.dart';
 
 void main() {
   group('Parameterized Constructors :', () {
