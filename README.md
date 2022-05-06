@@ -36,7 +36,7 @@ In the `pubspec.yaml` of your flutter project, add the following dependency:
 ```yaml
 dependencies:
   ...
-  bahere_hasab: ^0.0.1
+  bahere_hasab: ^0.0.2
 ```
 
 In your library add the following import:
