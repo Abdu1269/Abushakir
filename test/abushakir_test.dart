@@ -1,4 +1,3 @@
-import 'package:abushakir2/abushakir.dart';
 import 'package:test/test.dart';
 
 import 'package:abushakir/abushakir.dart';
